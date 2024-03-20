@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔞️🏰️[🇴.🇸]🏳️‍🌈️️🌐️🔞️ The official source repository for the horny jail component of VRedroomOS, an equivalent to a BSD jail, but with a specialized purpose. This project is NSFW
